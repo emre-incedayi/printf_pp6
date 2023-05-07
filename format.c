@@ -3,7 +3,7 @@
 int main()
 {
   int d = 100;	
-  double f = 3.1415926535;
+  float f = 3.1415926535;
 printf ("%d\n", d);
 printf ("%f\n", f);
 
